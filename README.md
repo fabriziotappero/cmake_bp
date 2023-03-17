@@ -1,2 +1,4 @@
-# cmake_bp
-Simple Cmake boilerplate project for C++ development.
+Simple cmake boilerplate for C++ project
+
+    cd cmake_bp
+    build.sh
