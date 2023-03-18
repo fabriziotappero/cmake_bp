@@ -1,10 +1,9 @@
 Simple **CMake** boilerplate to build your C++ projects.
 
-## HOW it Works
+## How it Works
 
-**CMake** makes you make file and **make** build your C++ project.
-
-Your execurable will be: *cmake_bp/build/src/cmake_bp*.
+Pretty simple, **CMake** makes you make files inside *build/* and **make** builds your C++ project.
+Your execurable ends up in: *cmake_bp/build/src/cmake_bp*.
 
 ## Basic Use
 
