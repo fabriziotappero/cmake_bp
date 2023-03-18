@@ -1,0 +1,8 @@
+/home/fabrizio/GIT/cmake_bp/build/CMakeFiles/rebuild_cache.dir
+/home/fabrizio/GIT/cmake_bp/build/CMakeFiles/edit_cache.dir
+/home/fabrizio/GIT/cmake_bp/build/src/CMakeFiles/edit_cache.dir
+/home/fabrizio/GIT/cmake_bp/build/src/CMakeFiles/rebuild_cache.dir
+/home/fabrizio/GIT/cmake_bp/build/src/CMakeFiles/cmake_bp.dir
+/home/fabrizio/GIT/cmake_bp/build/lib/CMakeFiles/rebuild_cache.dir
+/home/fabrizio/GIT/cmake_bp/build/lib/CMakeFiles/edit_cache.dir
+/home/fabrizio/GIT/cmake_bp/build/lib/CMakeFiles/add.dir
